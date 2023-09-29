@@ -29,4 +29,6 @@ spec:
   - kind: Secret
     jsonPointers:
     - data/my-username
+  - kind: Secret
+    jsonPointers:
     - data/my-password
